@@ -1,7 +1,7 @@
 Exercice fait en 5 minutes.
 
-Je vais ajouter des tests unitaires et un Makefile pour générer le binaire plus facilement.
-
 Vous pouvez éxecuter le binaire comme ceci :
 
 ajouter en premier argument le nombre 1000 (par exemple)
+
+./binaire 1000

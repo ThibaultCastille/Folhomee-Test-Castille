@@ -12,6 +12,7 @@ SRC     =	probleme-01/ex01.c		\
 SRC1	=	probleme-02/ex02.c		\
 
 SRC2	=	probleme-03/ex03.c		\
+		probleme-03/deplacement.c	\
 
 OBJ     =	$(SRC:.c=.o)
 

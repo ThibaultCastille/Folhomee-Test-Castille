@@ -15,3 +15,6 @@ typedef struct sys_s {
 void algorithm(char **stock, int size, sys_t *sys);
 void check_position(char **stock, int numbers, sys_t *sys);
 void check_rotation(char **stock, int numbers, sys_t *sys);
+int extract_numbers(char *stock);
+void init(sys_t *sys);
+void algorithm(char **stock, int size, sys_t *sys);
