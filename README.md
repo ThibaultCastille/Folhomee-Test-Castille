@@ -1,6 +1,9 @@
 # Folhomee-Test-Castille
 Test-Project of Folhomee
 
+Step 1:
+
+Make
 
 EX01:
 ./ex01 1000
